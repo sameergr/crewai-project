@@ -1,0 +1,8 @@
+2025-08-04T21:02:19.685+05:30  INFO 98606 --- [mcp-server] [main] c.m.m.McpServerApplicationTests          : Starting McpServerApplicationTests using Java 17.0.16 with PID 98606 (started by sameer in /Users/sameer/Developer/CrewAI/mcp-server)
+2025-08-04T21:02:19.686+05:30  INFO 98606 --- [mcp-server] [main] c.m.m.McpServerApplicationTests          : No active profile set, falling back to 1 default profile: "default"
+2025-08-04T21:02:20.044+05:30  INFO 98606 --- [mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-08-04T21:02:20.067+05:30  INFO 98606 --- [mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 6
+2025-08-04T21:02:20.067+05:30  INFO 98606 --- [mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-08-04T21:02:20.067+05:30  INFO 98606 --- [mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-08-04T21:02:20.068+05:30  INFO 98606 --- [mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-08-04T21:02:20.149+05:30  INFO 98606 --- [mcp-server] [main] c.m.m.McpServerApplicationTests          : Started McpServerApplicationTests in 0.607 seconds (process running for 1.01)
